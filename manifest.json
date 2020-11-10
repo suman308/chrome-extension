@@ -1,3 +1,11 @@
 {
-   "name": "collect"
+   "name": "collect", 
+   "version": "0.0.1", 
+   " manifestversion": 2, 
+   "content_scripts":[
+       {
+         "matches": ["<all_urls"], 
+          "js" : ["content.js"]
+       }
+   ]
 }

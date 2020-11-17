@@ -1,6 +1,9 @@
 {
   "short_name": "Eve",
   "name": "Browser Controller",
+  "description": "Virtual assistant",
+  "version": "Android-0.0.1",
+  "manifest_version":2,
   "icons": [
     {
       "src": "favicon.ico",
